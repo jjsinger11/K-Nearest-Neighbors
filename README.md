@@ -1,1 +1,2 @@
 # K-Nearest-Neighbors
+This project utilizes the K Nearest-Neighbor algorithm to classify images of numbers. It works by using the Euclidian distance formula to find the K closest images in the training data that most closely resemble the given number. Since the datasets are under copyright, I will unfortunately not be able to release the results of the algorithm on the datasets I was given unless you directly contact me.
